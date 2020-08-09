@@ -1,0 +1,19 @@
+ body {
+                    border: 5px solid black;
+                    padding: 10px;
+                 }
+			#heading{
+				height: 200px;
+			}
+		table, td, td {
+			width:1200px;
+		border: 1px solid black;
+		border-collapse: collapse;
+		}
+		th, td {
+		padding: 5px;
+		text-align: left;
+		}
+		th{
+			background-color:#BB8FCE;
+		}
